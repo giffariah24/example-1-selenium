@@ -1,5 +1,4 @@
-# AUTOMATION ASSIGNMENT
-# GIFFARI AL HAFIDZ
+# AUTOMATION
 # https://itera-qa.azurewebsites.net/home/automation
 
 import time
